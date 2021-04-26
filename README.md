@@ -1,6 +1,3 @@
-###
-
-
 ### Problem
 
 The biggest issue we had when attempting to predict the first round of COVID was a lack of data. Due to the virus being new, every move of the virus was unique, therefore unpredictable. However, new technologies and an infinite influx of data allow for more accurate and safer modeling technologies to become apparent.
@@ -17,7 +14,7 @@ Subsequently, this influx of data allows for advanced data modeling and analytic
   - Leveraging AI will increase the accuracy of data
   - Utilizing blockchain will increase security
 
-###Impact
+### Impact
 
 - Hospitals are better prepared in terms of knowing what volume of patients to expect based on predictions.
 - The supply chain of PPEs and other protected health materials is more adapted to the trends in COVID cases so as to reduce periods of scarcity of these supplies in the hospitals.
